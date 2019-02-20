@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Integrates phabricator conduit credentials with the k8s credential provider.
+</div>
